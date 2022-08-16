@@ -1,0 +1,1 @@
+let max=document.querySelector('input[ name="max"]');
